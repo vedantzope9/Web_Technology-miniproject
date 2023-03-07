@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    background-color:#e0cacf;
+}
+h2{
+ color: rgb(0, 0, 0);
+ font-style: italic;
+}
+h3{
+    color:rgb(0, 0, 0);
+    font-style: italic;
+}
+p{
+    color:rgb(0, 0, 0);
+    font-style: bold;
+
+}
+.men{
+    color:rgba(0, 0, 0, 0.932);
+    font-style: oblique;
+
+}
+.women{
+  color:rgb(255, 0, 212);
+  font-style: italic;
+
+}
+.kids{
+color:rgb(119, 0, 255);
+font-style: italic;
+}
